@@ -127,7 +127,7 @@ Bogus Locksmiths & Supplies
 
 ![Bogus](https://imgur.com/htPagNG.png)
 
-**Department of the season**  
+### **Department of the season**  
 
 Sheriffs
 
