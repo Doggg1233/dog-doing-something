@@ -1,5 +1,7 @@
 # **FDG Newsletter \- Winter Edition**
 
+![Newsletter Banner](https://i.imgur.com/UVZxSfF.png) 
+
 ## **Introduction**
 
 Hello everyone, welcome back to the third FDG seasonal newsletter of 2026\!
@@ -16,6 +18,8 @@ As always, a massive thank you goes to everyone who continues to contribute to F
 
 ## **Community Stats** 
 
+![Stats](https://imgur.com/PnKoVVE.png)
+
 ## **Development Highlights**
 
 The development team has once again been extremely busy over the past few months.
@@ -23,6 +27,8 @@ The development team has once again been extremely busy over the past few months
 The developers noted on each update are not conclusive, a significant amount of time goes into each project and most require the ' insight of multiple members of our team and their experience to complete these massive projects. A massive thank you to all the developers for the work they do.
 
 ### **🚛 Trucking Overhaul \- IGWolf 🚛**
+
+![TRUCK](https://imgur.com/glBa9rG.png)
 
 One of the largest job updates this season was a major expansion to the trucking system.
 
@@ -46,6 +52,8 @@ The update has transformed trucking into a much larger long-term progression sys
 Massive shoutout to **IGWolf** and the development team for the work put into this.
 
 ### **💰 [Smash & Grab](https://www.youtube.com/watch?v=J7dBDCFnT7Q) 💰**
+
+![SMASH and grab](https://imgur.com/jRzstJL.png)
 
 One of the biggest completely new activities released this season was **Smash & Grab**, introduced by the development team.
 
@@ -96,6 +104,8 @@ An absolutely massive shoutout to the vehicle team for this one.
 
 ### **🎁 Skill Rewards \- Martibo 🎁**
 
+![martibo clothes](https://imgur.com/k44hDmD.png)
+
 An example of custom clothing^
 
 Another major progression update came from **Martibo** with the introduction of **Skill Rewards**.
@@ -134,6 +144,8 @@ An absolutely massive shoutout to the entire **Development teams** for the const
 
 ### **🦆 FDG Portal & Digital Licences \- Deveraux 🦆**
 
+![deveraux](https://imgur.com/736bgeH.png)
+
 Fat Duck Family has continued receiving new features throughout the season, with **Deveraux** introducing and expanding the **FDG Portal**.
 
 The Portal gives players a central location to view their achievements, check outstanding support tickets and claim special FDF rewards.
@@ -147,6 +159,8 @@ The licence system integrates with achievements and allows players to unlock dif
 Huge shoutout to **Deveraux** for continuing to build out additional features and rewards for FDF supporters.
 
 ### **👑 Cyber Bar & King of the Hill \- Golden-Eagle 👑**
+
+![cyberbar](https://imgur.com/HtsZ6wX.png)
 
 **Golden-Eagle** and Cyber Bar have also been busy this season with the introduction and continued testing of **King of the Hill**.
 
@@ -196,6 +210,8 @@ It gives players looking for more responsibility within the business scene an op
 
 ### **🏁 Racing Season 5 \- Martibo 🏁**
 
+![racing](https://imgur.com/YZ3Qt6v.png)
+
 \*photo credit to Martibo\*
 
 The racing scene has continued moving into another season under **Martibo**.
@@ -220,21 +236,31 @@ Whether it is through gangs, businesses, content creation, government roleplay o
 
 Santos Cartel
 
+![santos](https://imgur.com/DRtAVZK.png)
+
 ### **Registered Gang of the Season**
 
 Kimura Family 
+
+![kimura](https://imgur.com/znqMiH2.png)
 
 ### **Business of the Season**
 
 Los Santos Customs
 
+![LSC](https://imgur.com/mn08e63.png)
+
 ### **Content Creator of the Season**
 
 SebbyFerg0 \- Check him out \- [https://www.twitch.tv/sebbyferg0](https://www.twitch.tv/sebbyferg0) 
 
+![sebbyferg0](https://imgur.com/ofFhS3l.png)
+
 ### **Government Department of the Season**
 
 **RAPTOR**
+
+![raptor](https://imgur.com/zABg1T4.png)
 
 ## **Final Thoughts**
 
@@ -255,4 +281,6 @@ There is plenty more to come.
 Until next season.
 
 - Dog & Bailey
+
+![bye](https://imgur.com/lLYFtFw.png)  
 
